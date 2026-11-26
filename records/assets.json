@@ -1,0 +1,24 @@
+[
+  {
+    "id": "unit-old",
+    "site": "p1",
+    "zone": "sensors",
+    "id_seen": "u-5",
+    "state": "removed"
+  },
+  {
+    "id": "replacement",
+    "from": "u-5",
+    "to": "u-9",
+    "revision": "fw-b",
+    "site": "p1",
+    "day": 8
+  },
+  {
+    "id": "unit-neighbor",
+    "site": "p1",
+    "zone": "sensors",
+    "id_seen": "u-6",
+    "revision": "fw-a"
+  }
+]

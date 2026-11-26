@@ -1,0 +1,22 @@
+[
+  {
+    "id": "iso-5",
+    "targets": [
+      "u-5",
+      "u-6"
+    ],
+    "allowed": [
+      "diagnostic"
+    ],
+    "publish_requires": "fw-b"
+  },
+  {
+    "id": "restore-n",
+    "targets": [
+      "u-9"
+    ],
+    "intent": "upload",
+    "approved": true,
+    "applied": null
+  }
+]
